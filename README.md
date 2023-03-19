@@ -13,4 +13,6 @@ Want to buy me a coffee? Send me a mail via the contact form on our website or s
 
 
 * Example cron
-00 */2 * * * root /usr/bin/bash /opt/M3U2STRM/m3u2strm.sh /media/lista.m3u /media/VOD
+> ```console
+> 00 */2 * * * root /usr/bin/bash /opt/M3U2STRM/m3u2strm.sh /media/lista.m3u /media/VOD
+> ```
