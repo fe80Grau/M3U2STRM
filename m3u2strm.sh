@@ -2,7 +2,7 @@
 
 # M3U 2 STRM - v1.0.0 (November 2020)
 # Coded by: ERDesigns - Ernst Reidinga (c) 2020
-
+wget -O /media/lista.m3u "http://www.yoururl.com/example.m3u"
 trap 'printf "\n";stop;exit 1;clear;' 2
 
 
